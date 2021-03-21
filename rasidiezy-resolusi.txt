@@ -1,0 +1,7 @@
+RASIDI RESOLUSI
+-Belajar PHP Dasar
+-Belajar Javascript
+-Belajar OOP PHP
+-Belajar MVC (Model View Controller)
+-Belajar Codeigniter
+-Belajar Laravel
