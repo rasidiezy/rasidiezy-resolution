@@ -5,3 +5,4 @@ RASIDI RESOLUSI
 -Belajar MVC (Model View Controller)
 -Belajar Codeigniter
 -Belajar Laravel
+-Mengerjakan project untuk portofolio
