@@ -1,5 +1,4 @@
 RASIDI RESOLUSI
--Belajar PHP Dasar
 -Belajar Javascript
 -Belajar OOP PHP
 -Belajar MVC (Model View Controller)
